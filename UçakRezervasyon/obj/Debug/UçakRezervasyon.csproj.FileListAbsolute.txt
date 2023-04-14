@@ -1,0 +1,11 @@
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\UçakRezervasyon\UçakRezervasyon\bin\Debug\UçakRezervasyon.exe.config
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\UçakRezervasyon\UçakRezervasyon\bin\Debug\UçakRezervasyon.exe
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\UçakRezervasyon\UçakRezervasyon\bin\Debug\UçakRezervasyon.pdb
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\UçakRezervasyon\UçakRezervasyon\obj\Debug\UçakRezervasyon.csproj.AssemblyReference.cache
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\UçakRezervasyon\UçakRezervasyon\obj\Debug\UçakRezervasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\UçakRezervasyon\UçakRezervasyon\obj\Debug\UçakRezervasyon.Form1.resources
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\UçakRezervasyon\UçakRezervasyon\obj\Debug\UçakRezervasyon.Properties.Resources.resources
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\UçakRezervasyon\UçakRezervasyon\obj\Debug\UçakRezervasyon.csproj.GenerateResource.cache
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\UçakRezervasyon\UçakRezervasyon\obj\Debug\UçakRezervasyon.csproj.CoreCompileInputs.cache
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\UçakRezervasyon\UçakRezervasyon\obj\Debug\UçakRezervasyon.exe
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\UçakRezervasyon\UçakRezervasyon\obj\Debug\UçakRezervasyon.pdb
